@@ -8,7 +8,7 @@ Teaching Assistant in the Geomatics Engineering Department, [Shoubra Faculty of 
 
 ## Education 
 
-- BSc in Geomatics Engineering (2017)
+- **BSc** in _Geomatics Engineering_ (2017)
 
 
 
