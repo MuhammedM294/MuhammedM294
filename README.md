@@ -10,5 +10,10 @@ Teaching Assistant in the Geomatics Engineering Department, [Shoubra Faculty of 
 
 - **BSc** in _Geomatics Engineering_ (2017)
 
+## Area of Research 
 
+- Geographic Information Systems (GIS)
+- Remote Sensing
+- Geospatial Data Science 
+- Google Earth Engine
 
