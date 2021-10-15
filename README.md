@@ -6,5 +6,9 @@ MSc Student in [Institute of Cartography and Geoinformatics](http://lazarus.elte
 Teaching Assistant in the Geomatics Engineering Department, [Shoubra Faculty of Engineering](https://www.feng.bu.edu.eg/en/), [Benha University](https://bu.edu.eg/en/). 
 
 
+## Education 
+
+- BSc in Geomatics Engineering (2017)
+
 
 
