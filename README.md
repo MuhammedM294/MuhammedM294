@@ -15,7 +15,7 @@ Teaching Assistant in the Geomatics Engineering Department, [Shoubra Faculty of 
 - Geographic Information Systems (GIS)
 - Remote Sensing
 - Geospatial Data Science 
-- Google Earth Engine
 - Spatial Big Data
 - Cloud Computing 
+-  Google Earth Engine
 
