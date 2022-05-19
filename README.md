@@ -12,7 +12,7 @@ Teaching Assistant in the Geomatics Engineering Department, [Shoubra Faculty of 
 
 ## Area of Research 
 
-- Remote Sensing/ GIS
+- Remote Sensing
 - Photogrammetry
 - Computer Vision 
 - Deep Learning
