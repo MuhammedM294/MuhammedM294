@@ -9,7 +9,7 @@ Teaching Assistant in the Geomatics Engineering Department, [Shoubra Faculty of 
 ## Education 
 
 - **BSc** in _Geomatics Engineering_ (2017)
-- **MSc** in _Remote Sensing and Geoinfoamtics_ (2022)
+- **MSc** in _Remote Sensing and Geoinformatics_ (2022)
 
 ## Area of Research 
 
