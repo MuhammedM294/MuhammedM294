@@ -17,6 +17,6 @@ Teaching Assistant at the Geomatics Engineering Department, [Shoubra Faculty of 
 - Photogrammetry
 - Computer Vision 
 - Deep Learning
-- Visual SLAM
+
 
 
