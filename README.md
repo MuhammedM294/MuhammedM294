@@ -5,7 +5,7 @@
 - **MSc** in _Geoinformatics_ (2022)
 - **BSc** in _Geomatics Engineering_ (2017)
 
-## Iam interested in: 
+## I am interested in: 
 
 - Remote Sensing/ Radar / Lidar
 - Photogrammetry
