@@ -7,9 +7,9 @@
 
 ## I am interested in: 
 
+- SLAM /Localization / Mapping
 - Remote Sensing/ Radar / Lidar
 - Photogrammetry
-- SLAM /Localization / Mapping
 - Autonomous Navigation
 - Deep Learning for Computer Vision
 
