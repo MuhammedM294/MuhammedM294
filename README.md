@@ -5,7 +5,7 @@
 - **BSc** in _Geomatics Engineering_ (2017)
 
 ## I am interested in: 
-- Remote Sensing/ Radar / Lidar
+- Satellite Imagery/ Radar / Lidar
 - SLAM /Visual SLAM
 - Photogrammetric Computer Vision
 
