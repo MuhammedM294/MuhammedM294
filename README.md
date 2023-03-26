@@ -1,5 +1,5 @@
 ## Muhammed Abdelaal
-I am a Geomatics engineer and assistant lecturer in the Geomatics Engineering Department, Benha University, Egypt.
+I am a Geomatics engineer and currently working as an assistant lecturer in the Geomatics Engineering Department at Benha University, Egypt.
 
 ## Education 
 - **MSc** in _Geoinformatics_ (2022)
