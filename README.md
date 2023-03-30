@@ -1,9 +1,6 @@
-## Muhammed Abdelaal
+## Muhammed Abdelaal, MSc
 I am a Geomatics engineer and currently working as an assistant lecturer in the Geomatics Engineering Department at Benha University, Egypt.
 
-## Education 
-- **MSc** in _Geoinformatics_ (2022)
-- **BSc** in _Geomatics Engineering_ (2017)
 
 ## I am interested in: 
 - Satellite Imagery/ Radar / Lidar
