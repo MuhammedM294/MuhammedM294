@@ -3,7 +3,7 @@ I am a Geomatics engineer and currently working as an assistant lecturer in the 
 
 
 ## I am interested in: 
-- Satellite Imagery/ Radar / Lidar
+- Remote Sensing
 - SLAM /Visual SLAM
 - Photogrammetric Computer Vision
 
