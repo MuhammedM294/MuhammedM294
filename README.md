@@ -3,9 +3,10 @@ I am a Geomatics engineer and currently working as an assistant lecturer in the 
 
 
 ## I am interested in: 
-- Remote Sensing
+- Remote Sensing, Photogrammetry, and Computer Vision
 - SLAM /Visual SLAM
-- Photogrammetric Computer Vision
+- Robot Mapping, Navigation
+
 
 ## Github Stats
 
