@@ -11,7 +11,7 @@ I am a Geomatics engineer and currently working as an assistant lecturer in the 
 ## Technologies and Tools
 <div align="center">
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
+	#<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>
 	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" title="OpenCV" /></code>
 	<code><img height="50" src="https://w7.pngwing.com/pngs/134/662/png-transparent-numpy-hd-logo.png" alt="Numpy" title="Numpy" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow" /></code>
