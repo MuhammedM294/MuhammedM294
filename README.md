@@ -7,7 +7,7 @@ I am a Geomatics engineer and currently working as an assistant lecturer in the 
 - SLAM/ Visual SLAM
 - Robot Mapping/ Navigation
 
-### [LinkedIn](https://www.linkedin.com/in/m294/)
+### [LinkedIn](https://www.linkedin.com/in/m294/)  ### [ResearchGate](https://www.researchgate.net/profile/Muhammed-Abdelaal)
 
 
 ## Technologies and Tools
