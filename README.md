@@ -7,6 +7,8 @@ I am a Geomatics engineer and currently working as an assistant lecturer in the 
 - SLAM/ Visual SLAM
 - Robot Mapping/ Navigation
 
+### [LinkedIn](https://www.linkedin.com/in/m294/)
+
 
 ## Technologies and Tools
 <div align="center">
