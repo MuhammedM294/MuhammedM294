@@ -11,7 +11,6 @@ I am a Geomatics engineer and currently working as an assistant lecturer in the 
 
  #### [LinkedIn](https://www.linkedin.com/in/m294/)  
  #### [ResearchGate](https://www.researchgate.net/profile/Muhammed-Abdelaal)
- #### [Gmail](muhammedaabdelaal@gmail.com)
 
 
 ## Technologies and Tools
