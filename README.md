@@ -3,9 +3,9 @@ I am a Geomatics engineer and currently working as an assistant lecturer in the 
 
 
 ## I am Interested in: 
-- Remote Sensing
+- Remote Sensing/Satellite Imagery
 - Photogrammetry
-- Computer Vision
+- Computer Vision/Deep Learning
 
 
 ## Contacts:
