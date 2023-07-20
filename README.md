@@ -1,12 +1,4 @@
 ## Muhammed Abdelaal, MSc
-I am a Geomatics engineer and currently working as an assistant lecturer in the Geomatics Engineering Department at Shoubra Faculty of Engineering, Benha University, Egypt.
-
-
-## I am Interested in: 
-- Remote Sensing/Satellite Imagery
-- Photogrammetry
-- Computer Vision/Deep Learning
-
 
 ## Contacts:
 
