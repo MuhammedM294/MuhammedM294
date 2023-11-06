@@ -1,12 +1,12 @@
-## Muhammed Abdelaal, MSc
-🛰️ **Visiting Remote Sensing Scientist at EUMETSAT | Hosted by TU WIEN, Austria**
+### Muhammed Abdelaal, MSc
+🛰️**Visiting Remote Sensing Scientist at EUMETSAT | Hosted by TU WIEN, Austria**
 ## Contacts:
 
  #### [LinkedIn](https://www.linkedin.com/in/m294/)  
  #### [ResearchGate](https://www.researchgate.net/profile/Muhammed-Abdelaal)
 
 
-## Technologies and Tools
+### Technologies and Tools
 <div align="center">
 <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="OpenCV" title="OpenCV" /></code>
@@ -27,7 +27,7 @@
 
 
 
-## Github Stats
+### Github Stats
 
 ![MuhammedM294's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammedM294&show_icons=true&theme=transparent)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedM294&" alt="MuhammedM294" /></p>
