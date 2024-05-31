@@ -26,10 +26,6 @@
 
 
 
-
-### Github Stats
-
-![MuhammedM294's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MuhammedM294&show_icons=true&theme=transparent)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedM294&" alt="MuhammedM294" /></p>
 
 
