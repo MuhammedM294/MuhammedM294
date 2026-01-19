@@ -1,4 +1,4 @@
 ### Muhammed Abdelaal, MSc
-🛰️**Remote Sensing Engineer/ Project Assistant at TU Wien, Austria**
+🛰️**Remote Sensing Engineer at Geo TU Wien, Austria**
 
 
